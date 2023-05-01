@@ -47,6 +47,4 @@
             "test": "nyc --reporter=text mocha test"
         }
     }
-
-    notes
   */
